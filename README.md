@@ -20,5 +20,5 @@ User registration requires an email but does not require validation at this time
 Passwords are hashed using PHP's password_hash function.
 
 ## Credits
-TinyMCE: https://www.tiny.cloud/tinymce/
-Bootstrap (v4): https://getbootstrap.com/
+* TinyMCE: https://www.tiny.cloud/tinymce/
+* Bootstrap (v4): https://getbootstrap.com/
