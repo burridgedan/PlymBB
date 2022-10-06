@@ -2,6 +2,7 @@
 This project started off as my final project for my foundation year at University.
 
 * The only changes to the code since the assignment was handed in is making it compatible with PHP 8.1 (demo site runs on PHP 8.1.11 currently).
+* The admin panel will not be available on the demo site. If you wish to use it please download a copy of the code from this repo and test it on your own local setup.
 * The database structure can be found within plymbb.sql.
 * Database connection settings can be set under config.php.
 
